@@ -1,0 +1,41 @@
+#logo{
+    width: 100px;
+    height: 100px;
+}
+.header{
+    color: red;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    height: 55px;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 35px;
+}
+.vs{
+    color: red;
+}
+h3{
+    font-family: 'Handlee', cursive;
+}
+.test_image{
+    background-color: grey;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+h5{
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+}
+.footer{
+    bottom: 0;
+text-align: center;
+width: 85%;
+line-height: 3; 
+background-color: rgb(31, 106, 182);
+color: white;
+  }
+
+
